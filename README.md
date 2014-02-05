@@ -29,11 +29,11 @@ Navigate to http://heatvote.com and follow the instructions on the home page.  T
 	$ bower install
 	$ node app.js
 
-## Challenges
+## Personal Challenges
 
-- Rendering the D3 heatmap with our Backbone integration.
 - Creating our own data algorithm for heatmap visualization.
-- Managing async in Backbone and Node.
+- Autoresizing the D3 heatmap with our Backbone integration.
+- Managing async in Node.
 
 ## Authors
 
